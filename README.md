@@ -64,11 +64,7 @@ Contributions are welcome! If you would like to contribute to this project, foll
 5.Push your changes to the remote repository: git push origin my-contribution.
 6.Open a pull request in the original repository.
 
-## License
-
-And of course:
-
-MIT: https://rem.mit-license.org
+## License MIT
 
 
 
